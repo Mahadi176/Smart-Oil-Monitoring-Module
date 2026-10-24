@@ -1,4 +1,4 @@
-# Smart Oil Consumption Monitoring System
+# Smart Oil Consumption Monitoring Module 
 
 A Python web application for recording oil consumption, reviewing category trends, forecasting future consumption, flagging unusually high daily totals, tracking a reduction target, and exporting CSV/PDF reports.
 
