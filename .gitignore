@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+oil_monitor.db
+oil_monitor.db-shm
+oil_monitor.db-wal
+models/*.joblib
+*.pdf
+*.csv
